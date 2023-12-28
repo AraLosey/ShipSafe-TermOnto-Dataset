@@ -4,4 +4,5 @@ ShipSafe-TermOnto is a domain and terminological ontology in English on the ship
 Publications
 
 Losey-León, María-Araceli (2016). Organización y representación término-ontológica del dominio de la seguridad de la navegación marítima (inglés-español) [Tesis doctoral]. Universidad de Cádiz, Cádiz, España.
+
 Losey-León, María-Araceli (2022). Diseño macro- y microestructural e implementación de un glosario digital término-ontológico sobre seguridad marítima (inglés-español) [Trabajo de Fin de Máster]. Universidad de Córdoba, Córdoba, España.
